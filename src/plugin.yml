@@ -1,0 +1,11 @@
+name: Lobby_plugin
+main: com.topoedits.Lobby
+version: 0.1-ALPHA
+author: [ToPoEdiTs, 8Duff]
+commands:
+    estado:
+permissions:
+    lobby.vip:
+        description: Poder entrar cuando el server esta lleno.
+    lobby.estado:
+        description: Tener acceso al modo Mantenimiento
